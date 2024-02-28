@@ -1,0 +1,4 @@
+Amaliy vazifa : Ob-havo
+telegram: https://t.me/Ahror_Halimboyev
+github: https://github.com/ahrorhalimboyev/weatherApp
+netlify: https://main--uziqlim.netlify.app/

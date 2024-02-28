@@ -1,5 +1,5 @@
 <template>
-  <div class="flex w-full flex-col sm:flex-row">
+  <div class="flex w-full">
     <div class="w-4/5 bg-white">
       <div
         v-if="selectedCity"
